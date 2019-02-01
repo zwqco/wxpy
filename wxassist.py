@@ -1,6 +1,5 @@
 #！/usr/bin/env/python3
 #-*-coding:utf-8-*-
-__author__ = 'zwq'
 
 from wxpy import *
 import  time
